@@ -39,7 +39,7 @@ streamlit==1.45.1
 sympy==1.13.3
 tenacity==9.1.2
 toml==0.10.2
-torch==2.7.0+cpu
+torch==2.0.1
 torchvision==0.22.0+cpu
 tornado==6.5.1
 tqdm==4.67.1
