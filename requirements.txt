@@ -1,8 +1,10 @@
 streamlit==1.24.1
-torch==2.7.0
-torchvision==0.22.0
-# Remove explicit rich version, or restrict version below 14
-rich>=10.11.0,<14
-markdown-it-py==3.0.0
-mdurl==0.1.2
-pygments==2.19.1
+rich==13.3.5
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+opencv-python
+flask
+requests
