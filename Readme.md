@@ -1,5 +1,4 @@
 
-```markdown
 # 🧠 Brain Tumor Classification with Deep Learning
 
 A deep learning-powered web app to detect brain tumors from MRI scans using a custom CNN model. Built with PyTorch and deployed using Streamlit.
