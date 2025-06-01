@@ -1,4 +1,3 @@
-Here's the cleaned-up version of your README without live predictions and demos:
 
 ```markdown
 # 🧠 Brain Tumor Classification with Deep Learning
