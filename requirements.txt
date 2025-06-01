@@ -1,10 +1,4 @@
 streamlit==1.45.1
-numpy
-pandas
-matplotlib
-opencv-python
-scikit-learn
-seaborn
 torch==2.2.2+cpu
 torchvision==0.17.2+cpu
---extra-index-url https://download.pytorch.org/whl/cpu
+pillow==11.0.0
